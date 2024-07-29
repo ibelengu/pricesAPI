@@ -1,4 +1,4 @@
-package com.example.demo.ínfrastructure.webservice;
+package com.example.demo.infrastructure.webservice;
 
 import com.example.demo.application.dto.price.PriceResponseDto;
 import com.example.demo.application.service.PriceService;

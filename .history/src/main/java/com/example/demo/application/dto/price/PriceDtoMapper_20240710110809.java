@@ -3,6 +3,10 @@ package com.example.demo.application.dto.price;
 import com.example.demo.domain.model.price.Price;
 import org.mapstruct.Mapper;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 @Mapper(componentModel = "spring")
 public interface PriceDtoMapper {
 

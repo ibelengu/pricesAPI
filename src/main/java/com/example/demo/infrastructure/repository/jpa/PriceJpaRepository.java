@@ -1,4 +1,4 @@
-package com.example.demo.ínfrastructure.repository.jpa;
+package com.example.demo.infrastructure.repository.jpa;
 
 import com.example.demo.domain.model.price.Price;
 import org.springframework.data.jpa.repository.JpaRepository;
